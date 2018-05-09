@@ -82,8 +82,6 @@ public class Detalhes extends AppCompatActivity {
         switch (item.getItemId()) {
             case android.R.id.home:
                 this.finish();
-                Intent intent = new Intent(this, MainActivity.class);
-                startActivity(intent);
                 return true;
             case R.id.addCidade:
                 //Verificando a exitência dessa cidade como favorita

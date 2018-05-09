@@ -40,10 +40,16 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+    }
+
+    @Override
+    protected void onStart() {
+        super.onStart();
         // Pegando os dados do SQLite
         mDatabaseHelper = new DatabaseHelper(this);
         Cursor data = mDatabaseHelper.getData();
         context = this;
+        listaCidadesSalvas.clear();
         while (data.moveToNext()) {
             listaCidadesSalvas.add(new ListaCidades(
                     data.getString(1),
@@ -78,7 +84,6 @@ public class MainActivity extends AppCompatActivity {
         WheaterAPIHelper infosTempo = new WheaterAPIHelper();
         //Executando chamadas para verificar os dados das cidades salvas
         infosTempo.execute(listaCidadesSalvas);
-
     }
 
     @Override
