@@ -1,0 +1,274 @@
+{
+    "data": [
+        {
+            "id": 3662574,
+            "coord": {
+                "lon": -67.809998,
+                "lat": -9.97472
+            },
+            "country": "BR",
+            "name": "Rio Branco",
+            "zoom": 7
+        },
+        {
+            "id": 3395981,
+            "coord": {
+                "lon": -35.735279,
+                "lat": -9.66583
+            },
+            "country": "BR",
+            "name": "Maceio",
+            "zoom": 7
+        },
+        {
+            "id": 3396016,
+            "coord": {
+                "lon": -51.066391,
+                "lat": 0.03889
+            },
+            "country": "BR",
+            "name": "Macapa",
+            "zoom": 6
+        },
+        {
+            "id": 3663517,
+            "coord": {
+                "lon": -60.025002,
+                "lat": -3.10194
+            },
+            "country": "BR",
+            "name": "Manaus",
+            "zoom": 1
+        },
+        {
+            "id": 3450554,
+            "coord": {
+                "lon": -38.51083,
+                "lat": -12.97111
+            },
+            "country": "BR",
+            "name": "Salvador",
+            "zoom": 5
+        },
+        {
+            "id": 3399415,
+            "coord": {
+                "lon": -38.54306,
+                "lat": -3.71722
+            },
+            "country": "BR",
+            "name": "Fortaleza",
+            "zoom": 1
+        },
+        {
+            "id": 3469058,
+            "coord": {
+                "lon": -47.929722,
+                "lat": -15.77972
+            },
+            "country": "BR",
+            "name": "Brasilia",
+            "zoom": 5
+        },
+        {
+            "id": 3444924,
+            "coord": {
+                "lon": -40.33778,
+                "lat": -20.319441
+            },
+            "country": "BR",
+            "name": "Vitoria",
+            "zoom": 12
+        },
+        {
+            "id": 3462377,
+            "coord": {
+                "lon": -49.253891,
+                "lat": -16.67861
+            },
+            "country": "BR",
+            "name": "Goiania",
+            "zoom": 7
+        },
+        {
+            "id": 3388368,
+            "coord": {
+                "lon": -44.30278,
+                "lat": -2.52972
+            },
+            "country": "BR",
+            "name": "Sao Luis",
+            "zoom": 6
+        },
+        {
+            "id": 3465038,
+            "coord": {
+                "lon": -56.096668,
+                "lat": -15.59611
+            },
+            "country": "BR",
+            "name": "Cuiaba",
+            "zoom": 1
+        },
+        {
+            "id": 3467747,
+            "coord": {
+                "lon": -54.646389,
+                "lat": -20.44278
+            },
+            "country": "BR",
+            "name": "Campo Grande",
+            "zoom": 4
+        },
+        {
+            "id": 3470127,
+            "coord": {
+                "lon": -43.937778,
+                "lat": -19.92083
+            },
+            "country": "BR",
+            "name": "Belo Horizonte",
+            "zoom": 6
+        },
+        {
+            "id": 3405870,
+            "coord": {
+                "lon": -48.50444,
+                "lat": -1.45583
+            },
+            "country": "BR",
+            "name": "Belem",
+            "zoom": 5
+        },
+        {
+            "id": 3397277,
+            "coord": {
+                "lon": -34.86306,
+                "lat": -7.115
+            },
+            "country": "BR",
+            "name": "Joao Pessoa",
+            "zoom": 8
+        },
+        {
+            "id": 3464975,
+            "coord": {
+                "lon": -49.27306,
+                "lat": -25.42778
+            },
+            "country": "BR",
+            "name": "Curitiba",
+            "zoom": 6
+        },
+        {
+            "id": 3390760,
+            "coord": {
+                "lon": -34.881111,
+                "lat": -8.05389
+            },
+            "country": "BR",
+            "name": "Recife",
+            "zoom": 5
+        },
+        {
+            "id": 3386496,
+            "coord": {
+                "lon": -42.801941,
+                "lat": -5.08917
+            },
+            "country": "BR",
+            "name": "Teresina",
+            "zoom": 6
+        },
+        {
+            "id": 3451190,
+            "coord": {
+                "lon": -43.2075,
+                "lat": -22.902781
+            },
+            "country": "BR",
+            "name": "Rio de Janeiro",
+            "zoom": 1
+        },
+        {
+            "id": 3394023,
+            "coord": {
+                "lon": -35.209438,
+                "lat": -5.795
+            },
+            "country": "BR",
+            "name": "Natal",
+            "zoom": 7
+        },
+        {
+            "id": 3452925,
+            "coord": {
+                "lon": -51.23,
+                "lat": -30.03306
+            },
+            "country": "BR",
+            "name": "Porto Alegre",
+            "zoom": 5
+        },
+        {
+            "id": 3662762,
+            "coord": {
+                "lon": -63.903889,
+                "lat": -8.76194
+            },
+            "country": "BR",
+            "name": "Porto Velho",
+            "zoom": 5
+        },
+        {
+            "id": 3664980,
+            "coord": {
+                "lon": -60.673328,
+                "lat": 2.81972
+            },
+            "country": "BR",
+            "name": "Boa Vista",
+            "zoom": 5
+        },
+        {
+            "id": 3463237,
+            "coord": {
+                "lon": -48.549171,
+                "lat": -27.59667
+            },
+            "country": "BR",
+            "name": "Florianopolis",
+            "zoom": 7
+        },
+        {
+            "id": 3448439,
+            "coord": {
+                "lon": -46.636108,
+                "lat": -23.547501
+            },
+            "country": "BR",
+            "name": "Sao Paulo",
+            "zoom": 4
+        },
+        {
+            "id": 3471872,
+            "coord": {
+                "lon": -37.071671,
+                "lat": -10.91111
+            },
+            "country": "BR",
+            "name": "Aracaju",
+            "zoom": 7
+        },
+        {
+            "id": 3474574,
+            "coord": {
+                "lon": -48.360279,
+                "lat": -10.21278
+            },
+            "country": "BR",
+            "name": "Palmas",
+            "zoom": 6
+        }
+    ]
+}
